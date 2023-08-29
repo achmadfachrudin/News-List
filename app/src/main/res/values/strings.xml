@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="favorite_list">Favorite List</string>
+
+    <string name="article_list">Article List</string>
+    <string name="article_enter_title">Enter article title</string>
+    <string name="article_detail">Article Detail</string>
+
+    <string name="source_list">Media Source List</string>
+
+    <string name="category_list">News Category List</string>
+</resources>
