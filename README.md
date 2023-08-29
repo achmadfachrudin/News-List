@@ -17,3 +17,5 @@ https://newsapi.org/v2/
 - [Sandwich](https://github.com/skydoves/Sandwich) - Construct a lightweight and modern response interface to handle network payload for Android.
 - [Moshi](https://github.com/square/moshi/) - A modern JSON library for Kotlin and Java.
 - [Coil](https://github.com/coil-kt/coil) - Loading images from network.
+
+<img src="https://github.com/achmadfachrudin/News-List/blob/master/pictures/Screenshot_20230829_083715.png" width="300"/><img src="https://github.com/achmadfachrudin/News-List/blob/master/pictures/Screenshot_20230829_083732.png" width="300"/><img src="https://github.com/achmadfachrudin/News-List/blob/master/pictures/Screenshot_20230829_083746.png" width="300"/><img src="https://github.com/achmadfachrudin/News-List/blob/master/pictures/Screenshot_20230829_083804.png" width="300"/>
